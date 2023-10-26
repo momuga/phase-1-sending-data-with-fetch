@@ -21,7 +21,12 @@
       "id": 2
     }
   ],
-  "users": [],
+  "users": [
+    {
+      "name": "Mark",
+      "email": "momuga@mail.com",  
+    }
+  ],
   "robots": [{
     "robotName": "C8-09S100K",
     "robotType": "Human Assistant",
